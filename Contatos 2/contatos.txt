@@ -1,0 +1,17 @@
+Alex Herrera
+alex.herrera@example.com
+
+Ben Lucas
+ben.lucas@example.com
+
+Cassandra Tucker
+cassandra.tucker@example.com
+
+James Phillips
+james.phillips@example.com
+
+Priscilla Soto
+priscilla.soto@example.com
+
+Susan Flores
+susan.flores@example.com
